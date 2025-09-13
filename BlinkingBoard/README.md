@@ -1,1 +1,1 @@
-In this folder, the code and the tutorial video is here in this folder. (Note that the delay script, you can experiment with the light and stuff like that)
+In this folder, the code and the tutorial video is here in this folder. (Note that the delay script, you can experiment with the light and stuff like that) Link to Video:https://youtube.com/watch?v=A21eaw4V8_4&msockid=e71bccfd90db11f0918de2b0dfd79f11
